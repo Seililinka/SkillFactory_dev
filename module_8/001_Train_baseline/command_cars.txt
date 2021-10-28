@@ -1,0 +1,1 @@
+python3 main.py -d ../data/ --name cars_classific --backbone resnet18 --path-save ./RESULT_OUT/ --notest-set

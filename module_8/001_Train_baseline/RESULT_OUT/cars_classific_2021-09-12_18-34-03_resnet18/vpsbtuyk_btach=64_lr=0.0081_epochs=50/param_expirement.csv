@@ -1,0 +1,2 @@
+	lr	batch_size	epochs	resolush	backbone
+0	0.0081	64.0	50.0	224.0	resnet18
