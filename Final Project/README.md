@@ -17,8 +17,6 @@ MAPE: 1.625
 * <code>[Добавление фичей + EDA](/EDA.ipynb)</code>
 * <code>[Обучение и тюнинг модели](/Model_Pipeline.ipynb)</code>
 * <code>[Датасет для обучения модели](/df_price.csv)</code>
-
 * <code>[Отчет pandas-profiling](https://drive.google.com/file/d/1eBmG29eZfUCSaaRqIEI5vlMlEpyaxHuh/view?usp=drivesdk)
-
 ### TODO
 Добавится презентация
