@@ -26,7 +26,7 @@ MAPE: 1.625
    * <code>- model_logs.json - файл лога с результатами работы модели с разными фичами и параметрами)</code>
    * <code>- price_housebase.tsv, price_train.tsv, price_train.tsv - исходные данные)</code>
 
-### Ссылки:
+### Ссылки
 * <code> Отчет pandas-profiling](https://drive.google.com/file/d/1eBmG29eZfUCSaaRqIEI5vlMlEpyaxHuh/view?usp=drivesdk)</code>
 * <code> Отчет Yandex DATA Lens](https://datalens.yandex.ru/ud7ndrq1r6zsm-linasf)</code>
 * <code> Google Colab](https://drive.google.com/drive/folders/14nrHxeaabvXwKkEBMbrxH1qVsJxg9Iqo)</code>  
