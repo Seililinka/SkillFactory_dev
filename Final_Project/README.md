@@ -20,6 +20,7 @@ MAPE: 1.625
 ### Описание файлов
 * <code>[Добавление фичей + EDA](/Final_Project/EDA.ipynb)</code>
 * <code>[Обучение и тюнинг модели](/Final_Project/Model_Pipeline.ipynb)</code>
+* <code>[Создание отчета profiling](/Final_Project/create_profiling_html.ipynb)</code>
 * <code>[Датасет для обучения модели](/Final_Project/data_sf/df_price.csv)</code>
 * <code>[Папка с данными](/Final_Project/data_sf/)</code>
    * <code> consultant20...json - файлы с сайта консультант плюс с праздниками и выходными</code>
