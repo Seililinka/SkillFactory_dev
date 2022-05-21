@@ -23,7 +23,7 @@ MAPE: 1.625
 * <code>[Датасет для обучения модели](/Final_Project/data_sf/df_price.csv)</code>
 * <code>[Папка с данными](/Final_Project/data_sf/)</code>
    * <code>- consultant20...json - файлы с сайта консультант плюс с праздниками и выходными)</code>
-   * <code>- model_logs.json - файл лога работы модели с разными фичами и параметрами)</code>
+   * <code>- model_logs.json - файл лога с результатами работы модели с разными фичами и параметрами)</code>
    * <code>- price_housebase.tsv, price_train.tsv, price_train.tsv - исходные данные)</code>
 
 ### Ссылки:
