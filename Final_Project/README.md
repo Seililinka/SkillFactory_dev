@@ -22,9 +22,9 @@ MAPE: 1.625
 * <code>[Обучение и тюнинг модели](/Final_Project/Model_Pipeline.ipynb)</code>
 * <code>[Датасет для обучения модели](/Final_Project/data_sf/df_price.csv)</code>
 * <code>[Папка с данными](/Final_Project/data_sf/)</code>
-    <code>- consultant20...json - файлы с сайта консультант плюс с праздниками и выходными)</code>
-    <code>- model_logs.json - файл лога работы модели с разными фичами и параметрами)</code>
-    <code>- price_housebase.tsv, price_train.tsv, price_train.tsv - исходные данные)</code>
+   * <code>- consultant20...json - файлы с сайта консультант плюс с праздниками и выходными)</code>
+   * <code>- model_logs.json - файл лога работы модели с разными фичами и параметрами)</code>
+   * <code>- price_housebase.tsv, price_train.tsv, price_train.tsv - исходные данные)</code>
 
 ### Ссылки:
 * <code>- Отчет pandas-profiling](https://drive.google.com/file/d/1eBmG29eZfUCSaaRqIEI5vlMlEpyaxHuh/view?usp=drivesdk)</code>
