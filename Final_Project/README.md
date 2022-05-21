@@ -28,7 +28,7 @@ MAPE: 1.625
 
 ### Ссылки
 * <code>[Отчет pandas-profiling](https://drive.google.com/file/d/1eBmG29eZfUCSaaRqIEI5vlMlEpyaxHuh/view?usp=drivesdk)</code>
-* <code>[Отчет Yandex DATA Lens](https://datalens.yandex.ru/ud7ndrq1r6zsm-linasf](https://datalens.yandex/ud7ndrq1r6zsm)</code>
+* <code>[Отчет Yandex DATA Lens](https://datalens.yandex/ud7ndrq1r6zsm)</code>
 * <code>[Google Colab](https://drive.google.com/drive/folders/14nrHxeaabvXwKkEBMbrxH1qVsJxg9Iqo)</code>  
   
   
