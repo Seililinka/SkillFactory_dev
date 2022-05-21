@@ -21,6 +21,7 @@ MAPE: 1.625
 * <code>[Добавление фичей + EDA](/Final_Project/EDA.ipynb)</code>
 * <code>[Обучение и тюнинг модели](/Final_Project/Model_Pipeline.ipynb)</code>
 * <code>[Датасет для обучения модели](/Final_Project/data_sf/df_price.csv)</code>
+* consultant2017-2019.json - файлы с данными о празниках и выходных днях Consultant
 
 ### Ссылки:
 * <code>[Отчет pandas-profiling](https://drive.google.com/file/d/1eBmG29eZfUCSaaRqIEI5vlMlEpyaxHuh/view?usp=drivesdk)</code>
