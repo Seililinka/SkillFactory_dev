@@ -34,5 +34,4 @@ MAPE: 1.625
 * <code>[REPORT AutoML](https://drive.google.com/drive/folders/1aRNFutxsQOgvUkz9__dErwL0kIPvWnMi)</code>  
   
   
-### TODO
-Добавится презентация
+
